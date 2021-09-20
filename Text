@@ -1,0 +1,12 @@
+Heyy guyssss
+Welcome back ♥
+Hôm nay mình sẽ chia sẻ các bạn cách để tạo 1 form input ( form nhập liệu cho người dùng)
+Cụ thể ở đây như Demo các bạn đã xem là form nhập Email Account 
+Mình dùng HTML&CSS để design form và dùng Js ( Javascript ) để có thể kiểm soát được số lượng kí tự 
+mà người dùng nhập vào ♥
+Các bạn có thể ứng dụng form này vào các project hay các việc cần sau này nhé ♥
+
+Đầu tiên để design được như form trên, thì ta cần import vào 2 thư viện 
+1 của Font Awesome, 1 của Google Fonts 
+Các bạn làm theo mình nhé ♥
+Yay vậy là xong phần setup rồi :D giờ ta vào code thôi, các bạn có hứng thú thì bật VS lên code cùng mình nhé ♥
